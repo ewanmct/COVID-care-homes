@@ -8,7 +8,7 @@
 #
 # IN SHORT...
 #
-# 	The following R scripts generate the data to make the figures in the manuscript
+# 	The following R scripts generate the data for the figures in the manuscript
 #
 # 	- 3_CALIBRATION_FIXED_SEEDING.R
 # 	- 5_CREATE_BARPLOT_DATA.R
@@ -20,7 +20,7 @@
 #       RANDOMISED_Care_Home_7DayAverageCases_NHS_Lothian.csv and RANDOMISED_Care_Home_WeeklyDeaths_NHS_Lothian 
 #       to create the RData files used to make our figures in the manuscript. 
 #       
-# 	These correct RData files are included in the zip file if you wish to create the figures from the 
+# 	These correct RData files are included in the zip file if you wish to plot the figures from the 
 # 	actual manuscript. Have all files from the zip file in the same directory, then run the following
 # 	scripts to output the figures
 #
