@@ -14,10 +14,11 @@
 # 	- 5_CREATE_BARPLOT_DATA.R
 # 	- 7_CREATE_ALL_HEATMAP_DATA.R
 #
-#       However, note that scripts 3 and 7 will not calculate the correct aggregated sum of squares as the care home case and death 
-#       data has been randomised. The real care home data are available on request from Prof Bruce Guthrie https://doi.org/10.1016/S2666-7568(20)30012-X
-#       You must use that in place of the randomised data in RANDOMISED_Care_Home_7DayAverageCases_NHS_Lothian.csv and 
-#       RANDOMISED_Care_Home_WeeklyDeaths_NHS_Lothian to create the RData files used to make our figures in the manuscript. 
+#       However, note that scripts 3 and 7 will not calculate the correct aggregated sum of squares as the care home 
+#       case and death data has been randomised. The real care home data are available on request from Prof Bruce
+#       Guthrie https://doi.org/10.1016/S2666-7568(20)30012-X. You must use that in place of the randomised data in
+#       RANDOMISED_Care_Home_7DayAverageCases_NHS_Lothian.csv and RANDOMISED_Care_Home_WeeklyDeaths_NHS_Lothian 
+#       to create the RData files used to make our figures in the manuscript. 
 #       
 # 	These correct RData files are included in the zip file if you wish to create the figures from the 
 # 	actual manuscript. Have all files from the zip file in the same directory, then run the following
