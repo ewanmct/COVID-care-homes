@@ -109,8 +109,8 @@
 #      Running this script creates data for the heatmap figures in the manuscript
 #      - "results_epsilon_delta.RData", "results_epsilon_gamma.RData", "results_gamma_delta.RData", used for the heatmap
 #             looking at sensitivity of the final resident deaths to the time-share/mixing parameters (ω^γ_high,δ,ε) 
-#      - "results_beta_rr_end_beta_c_end.RData", used for the heatmap looking at natural log of aggregated sum of squared error in 
-#             a ω^C_end−ω^G_end parameter space.       
+#      - "results_beta_rr_end_beta_c_end.RData", used for the heatmap looking at natural log of aggregated sum of squared
+#             error in a ω^C_end−ω^G_end parameter space.       
 #
 # 
 # 8_PLOT_EPSILON_GAMMA_DELTA_HEATMAPS.R :
