@@ -1,4 +1,4 @@
-# The zip file (COVID_CH) contains R code and Rdata files to generate the results from the manuscript 
+# The zip file (CODE) contains R code and Rdata files to generate the results from the manuscript 
 # "COVID-19 in Scottish care homes: A metapopulation model of spread among residents and staff".
 #
 #
